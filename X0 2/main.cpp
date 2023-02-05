@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    //start();
+    start();
     while(ok==1){
         if(p==1){
         ///X's Turn
